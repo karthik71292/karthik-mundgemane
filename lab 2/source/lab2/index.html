@@ -1,0 +1,39 @@
+<!doctype html>
+<html ng-app="ngOughts">
+<head>
+    <title>Tut</title>
+    <style type="text/css">
+        table {
+            margin: 10px;
+            border: black 1px solid;
+        }
+        tr {
+            margin: 2px;
+        }
+        td {
+            border: black 1px solid;
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .winning {
+            background-color: blue;
+            color: white;
+        }
+    </style>
+</head>
+<body ng-controller="BoardCtrl">
+<h1 ng-show="board.won" ng-cloak>{{board.winning_marker}} won the game!</h1>
+<table>
+    <tr ng-repeat="row in board.grid">
+        <td ng-repeat="cell in row" ng-click="board.playCell(cell)" ng-class="{'winning': cell.winning}">
+            <span ng-bind="cell.marker"></span>
+        </td>
+    </tr>
+</table>
+<button ng-click="board.reset()">Reset</button>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js"></script>
+<script type="text/javascript" src="app.js"></script>
+</body>
+</html>

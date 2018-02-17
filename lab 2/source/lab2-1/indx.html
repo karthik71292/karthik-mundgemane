@@ -1,0 +1,53 @@
+<!--
+&lt;!&ndash; Button to open the modal login form &ndash;&gt;
+<button onclick="document.getElementById('id01').style.display='block'">Login</button>
+
+&lt;!&ndash; The Modal &ndash;&gt;
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none'"
+        class="close" title="Close Modal">&times;</span>
+
+    &lt;!&ndash; Modal Content &ndash;&gt;
+    <form class="modal-content animate" action="/action_page.php">
+        <div class="imgcontainer">
+            <img src="img_avatar2.png" alt="Avatar" class="avatar">
+        </div>
+
+        <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="uname" required>
+
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+
+            <button type="submit">Login</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+        </div>
+
+        <div class="container" style="background-color:#f1f1f1">
+            <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+        </div>
+    </form>
+</div>-->
+<html>
+<body background="lll.png">
+
+<form tag="Create Logon">
+    <div align="center">
+        Username *: <input type="username" name="username" /><br />
+        Password *: <input type="password" name="pwd" /><br />
+        Surname *: <input type="surname" name="surname" /><br />
+
+        <input type="submit" value="Submit" />
+    </div>
+</form>
+
+
+<p>Note: Please make sure your details are correct before submitting form and that all fields marked with * are completed!.</p>
+
+
+</body>
+</html>
