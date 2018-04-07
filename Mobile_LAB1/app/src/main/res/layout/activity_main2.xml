@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="com.knowledge.mobile_lab1.Main2Activity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColorHint="#4FC3F7"
+        android:hint="Password"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="351dp"
+        android:layout_above="@+id/button3"
+        android:layout_alignStart="@+id/editText9"
+        android:layout_marginBottom="27dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="333dp"
+        android:layout_height="79dp"
+        android:ems="10"
+        android:inputType="none"
+        android:textColor="#4FC3F7"
+        android:text="       ENTER DETAILS FOR SIGN UP"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="17dp"
+        android:layout_above="@+id/editText3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Email"
+        android:textColorHint="#4FC3F7"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="293dp"
+        android:layout_above="@+id/editText4"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_marginBottom="18dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Name"
+        android:textColorHint="#4FC3F7"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="115dp"
+        android:layout_marginBottom="22dp"
+        android:layout_above="@+id/editText8"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="DOB"
+        android:textColorHint="#4FC3F7"
+        android:inputType="date"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="172dp"
+        android:layout_above="@+id/editText9"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_marginBottom="20dp" />
+
+    <EditText
+        android:id="@+id/editText9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ph.No"
+        android:textColorHint="#4FC3F7"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="234dp"
+        android:layout_marginBottom="19dp"
+        android:layout_above="@+id/editText"
+        android:layout_alignStart="@+id/editText8" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To INDEX"
+        android:onClick="indexButton"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="416dp"
+        android:layout_marginBottom="17dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
