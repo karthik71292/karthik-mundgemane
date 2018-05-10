@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\5e1b7189aab177f8a6f3a7c7bf2d931f7d14e39b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_a3b8300e54d7140f8a57faaa0802e31526f13280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\72c546769df0c6c7a7cdcfe17a825f120dda9ba4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_d235594ab01b98357719ce134bd0ab4ae01ad174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\3d48dd82009492ecf67650a2a6fa146e97ab58bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_17ca5d06137bbed3e7039f9fea297ad0e7ade739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\71a83805c6bda81d982bfaec8f3e80b737977bd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_c1f6147431a48b054fe23acff82438d3bad1aad7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f26a4a899e75325eab717be56bc82bcc46784d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdd6477bb920dc66a6fb6d20111d02a40b1eb863">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_293d7fd752cb8d0f58d46f7eab29d95601b50962\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\f5a47ae2460be2cd403bd91da77bd13b9fd3a40f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_45a24619d2007cc7d579b23100d0d0e985a05f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\2a94387ac29d4140e3180f651a2d8c4e09e15d72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_4c71edfe3a8ae9ee6292a50f7a11701c1f5b2f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\4b84becd0f9bafb3bc62237fb9f996670849b5f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_0af5144a4378fe474d38a5bcec23ffdea4e477af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\3f168bf54110c1167bd9f9ef1b457dd0c24407a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_9071861a98e4acfc8d87d868e3fe049d90144474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\.android\avd\.android\build-cache\0ed29d576dd634793d0eaa4fbdece1a7dfb06296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\classes_41cc40ed8c1b4eef0ee2e912ba73531719da8da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tvamshi13\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\tvamshi13\Desktop\Android_Sourcecode_6\Android-Speech-to-Text-Example-master\Android-Speech-to-Text-Example-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_68be314bcd1e1ffef9c33b6ff4ca45cf9cf07e02.jar" />
+    </item>
+
+</items>
